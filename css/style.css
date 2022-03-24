@@ -1,0 +1,170 @@
+    .site-header {
+        background-color: #fff;
+    }
+    
+    .sitenav-link {
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 15px;
+        color: #000;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 1px;
+    }
+    
+    nav ul {
+        list-style: none;
+    }
+    
+    .main-link {
+        font-family: Roboto;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.5px;
+        color: #FFFFFF;
+        background: #FF7500;
+        border-radius: 4px;
+        text-decoration: none;
+    }
+    
+    .hero {
+        background: #252420;
+        color: #FFFFFF;
+    }
+    
+    .hero-content {
+        width: 390px;
+    }
+    
+    .hero-heading {
+        font-size: 23px;
+        font-family: Roboto Condensed;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0.5px;
+    }
+    
+    .hero-text {
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.5px;
+    }
+    
+    .orange-line {
+        width: 80px;
+        height: 3px;
+        background: #FF7500;
+        text-align: left;
+    }
+    
+    .feature-heading {
+        font-family: Roboto Condensed;
+        font-size: 72px;
+        font-style: normal;
+        Width: 435px;
+        font-weight: 700;
+        line-height: 86px;
+        letter-spacing: 0.5px;
+    }
+    
+    .feature-info {
+        font-family: Roboto Condensed;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0.5px;
+        text-align: left;
+    }
+    
+    .feature {
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0.5px;
+    }
+    
+    .features ul {
+        list-style: none;
+    }
+    
+    .promo {
+        background: #252420;
+        border-radius: 12px;
+        color: #fff;
+    }
+    
+    .promo-content {
+        width: 440px;
+    }
+    
+    .feature-text {
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.5px;
+    }
+    
+    .promo-text {
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+    
+    .promo-text strong {
+        color: #FF7500;
+    }
+    
+    promo-ing {
+        width: 440px;
+        height: 440px;
+        object-fit: cover;
+    }
+    
+    .site-footer {
+        background-color: #f8f8f8;
+    }
+    
+    .site-footer ul {
+        list-style: none;
+    }
+    
+    .site-footer ul li a {
+        list-style: none;
+        text-decoration: none;
+        color: #252420;
+    }
+    
+    .site-footer-divider {
+        background: #25242080;
+        height: 2px;
+    }
+    
+    .site-footer-links {
+        width: 224px;
+    }
+    
+    .site-footer-links a {
+        text-decoration: none;
+        color: #252420;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+    }
